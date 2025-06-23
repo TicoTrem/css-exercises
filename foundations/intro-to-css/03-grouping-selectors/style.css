@@ -1,0 +1,16 @@
+.blackWhite,
+.yellowBlack {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.blackWhite {
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 50px;
+}
+
+.yellowBlack {
+    background-color: yellow;
+}
